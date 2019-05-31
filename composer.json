@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "easyswoole/easyswoole": "3.x",
+        "easyswoole/swoole-ide-helper": "^1.2",
+        "easyswoole/mysqli": "^1.1",
+        "aliyuncs/oss-sdk-php": "^2.3",
+        "elasticsearch/elasticsearch": "~5.0",
+        "monolog/monolog": "^1.24"
+    }
+}
